@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "diffEditor.renderSideBySide": false,
+    "breadcrumbs.enabled": false,
+    "editot.minimap.enabled": false,
+    "[typescript]": {
+
+    }
+}
